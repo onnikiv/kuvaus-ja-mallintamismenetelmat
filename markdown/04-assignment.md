@@ -132,3 +132,11 @@ Jaetaan tiedot kolmeen eri tauluihin.
 | 217            | Volttikauppa | 99,90  |
 
 ## T3
+
+OTP-1 projektin edistämisen suhteen listattuna asioita joita hyödyntää:
+
+- Huolellisesti nimetyt taulut ja kentät, pysyvät nimeämis käytänteet.
+- Laajennettavuuden varmistaminen, jos ja kun tietokantaa tarvitsee laajentaa tulevaisuudessa.
+- Normalisointi (3NF)
+- Tarpeettomien kenttien ja taulujen poistaminen, jos niitä on.
+- Viite-eheys, ulkoisten avainten (FK) käyttäminen kaikkien suhteiden hallitsemiseen.
